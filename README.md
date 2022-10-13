@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to My repository 
+- 🌱 I’m currently learning Computer Science
+
 
 <!--
 **kausarme/kausarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
